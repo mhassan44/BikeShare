@@ -1,5 +1,5 @@
 # BikeShare Project
-Explore US Bikeshre dataset by using Python to perform steps of the data analysis process on Bikeshare trip data collects from three US cities.The project compares the system usage between three large cities: New York City, Chicago, and Washington, DC. Also, the project aims to see if there are any differences within each system for those users that are registered, regular users and those users that are short-term, casual users.
+<p align="justify"> Explore US Bikeshre dataset by using Python to perform steps of the data analysis process on Bikeshare trip data collects from three US cities.The project compares the system usage between three large cities: New York City, Chicago, and Washington, DC. Also, the project aims to see if there are any differences within each system for those users that are registered, regular users and those users that are short-term, casual users.</p>
 
 ### Table of Contents includes:
 
